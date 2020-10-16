@@ -37,11 +37,10 @@
 <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
 <div class="container">
 	<div class="kotak">
-	
 	</div>
 	<div class="kotak1">
-		
 	</div>	
+	<div class="kotak2"></div>
 </div>
 
 <script>
